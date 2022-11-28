@@ -2,6 +2,8 @@
 
 Inspired by the New York Times [quiz](https://www.nytimes.com/interactive/2021/11/23/opinion/sunday/best-places-live-usa-quiz.html). Here is their [methodology](https://www.nytimes.com/interactive/2021/11/23/opinion/sunday/usa-best-places-quiz-methodology.html).
 
+(https://www.lawnstarter.com/blog/studies/best-worst-us-cities-for-remote-workers/#rankings-lowlights)
+
 ## Methodology
 
 ### Places
